@@ -9,12 +9,12 @@ This is a pretty time-intensive process that other educators can hopefully avoid
 
 ## Maintainer
 
-Andrea Ballatore (Birkbeck, University of London) [aballatore.space](https://aballatore.space)
+Andrea Ballatore (Birkbeck, University of London) &bull; [aballatore.space](https://aballatore.space)
 
 ## Disclaimer
 
 - These datasets are strictly intended for **educational, non-commercial use**.
-- The datasets have been heavily processed and simplified for educational use, removing some meta-data and details.
+- The datasets have been heavily processed and simplified, removing some meta-data and details.
 - If you want to use these datasets for scientific research or commercial activities, please refer to the original data source.
 - If you think that my version of a dataset infringes its license, please let me know and I will remove it.
 
@@ -44,4 +44,4 @@ When pages are missing, the Wayback Machine can help: https://archive.org/web
 * https://automaticknowledge.co.uk/resources
 * https://freegisdata.rtwilson.com
 
-_Last update: Jan 2021_
+Last update: Jan 2021
