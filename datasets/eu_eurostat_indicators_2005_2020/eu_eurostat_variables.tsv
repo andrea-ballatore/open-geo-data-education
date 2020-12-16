@@ -1,0 +1,23 @@
+input_var_short	input_var_code	input_var_desc
+killed_roads	sdg_11_40	People killed in road accidents (source: DG MOVE)
+greenhouse_emiss	sdg_13_10	Greenhouse gas emissions (source: EEA)
+greenhouse_emiss_percap	t2020_rd300	Greenhouse gas emissions per capita
+cows	tag00014	Number of dairy cows
+pigs	tag00018	Number of pigs
+pc_gdp	tec00114	GDP per capita in PPS
+gdp_growth	tec00115	Real GDP growth rate - volume
+manufacturing	teiis090	Production in industry - manufacturing
+gender_employ_gap	tepsr_lm220	Gender employment gap by NUTS 2 regions
+risk_poverty	tespm010	At-risk-of-poverty rate
+region_gdp	tgs00003	Regional gross domestic product by NUTS 2 regions - million EUR
+unemployment_rate	tgs00010	Unemployment rate by NUTS 2 regions
+disp_income_household	tgs00026	Disposable income of private households by NUTS 2 regions
+patents	tgs00040	Patent applications to the European patent office (EPO) by priority year by NUTS 2 regions
+broadband_access_household	tgs00049	Percentage of households with broadband access in relation to households with internet access, by NUTS 2 regions
+region_population	tgs00096	Population on 1 January by NUTS 2 region
+life_expectancy	tgs00101	Life expectancy at birth by sex and NUTS 2 region
+young_neet	tipslm90	Young people neither in employment nor in education and training (15-24 years) - % of the total population in the same age group
+population	tps00001	Population on 1 January
+pop_over65	tps00028	Proportion of population aged 65 and over
+death_alcohol	tps00140	Death due to alcoholic abuse, by sex
+tech_employment	tsc00011	Employment in high-  and medium-high technology manufacturing sectors and knowledge-intensive service sectors
