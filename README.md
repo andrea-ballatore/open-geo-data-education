@@ -9,7 +9,7 @@ This is a pretty time-intensive process that other educators can hopefully avoid
 
 ## Maintainer
 
-Andrea Ballatore (Birkbeck, University of London) (aballatore.space)
+Andrea Ballatore (Birkbeck, University of London) [aballatore.space](https://aballatore.space)
 
 ## Disclaimer
 
@@ -20,7 +20,7 @@ Andrea Ballatore (Birkbeck, University of London) (aballatore.space)
 
 ## Datasets
 
-
+TBC
 
 ## Formats
 
@@ -38,7 +38,7 @@ Some files are compressed with **gzip** (.gz extension), which is available nati
 
 ## Other great sources of free open geospatial data
 
-When pages are missing, the Wayback Machine can help: (https://archive.org/web)
+When pages are missing, the Wayback Machine can help: https://archive.org/web
 
 * https://github.com/awesomedata/awesome-public-datasets
 * https://automaticknowledge.co.uk/resources
