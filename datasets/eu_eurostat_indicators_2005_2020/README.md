@@ -2,6 +2,7 @@
 
 Data source: Eurostat https://ec.europa.eu/eurostat
 
+
 - NUTS 0: Countries
 - NUTS 2: Regions
 
