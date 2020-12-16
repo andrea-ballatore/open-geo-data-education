@@ -26,11 +26,12 @@ TBC
 
 All datasets are encoded in open formats:
 
-* __CSV/TSV__: Comma or tab-separated values. It can be opened with R, Python, Excel.
-* __GeoJSON__: Text-based geospatial vector datasets. It can be opened with QGIS, R, and Python.
-* __GeoPackage__: Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
-* __GeoTiff__: Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
-* You will not find shapefiles: (http://switchfromshapefile.org)
+* __CSV/TSV__ (.csv, .tsv): Comma or tab-separated values. It can be opened with R, Python, Excel.
+* __GeoJSON__ (.geojson): Text-based geospatial vector datasets. It can be opened with QGIS, R, and Python.
+* __GeoPackage__ (.gpkg): Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
+* __GeoTiff__ (.tif): Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
+* __R dataset__ (.rds): Native R binary format containing a data frame or a spatial data frame.
+* I do not use shapefiles: (http://switchfromshapefile.org)
 
 All datasets are smaller than 50 MB, in an effort to make them suitable for dated hardware. 
 Some files are compressed with **gzip** (.gz extension), which is available natively on Mac and Linux. 
@@ -40,8 +41,8 @@ Some files are compressed with **gzip** (.gz extension), which is available nati
 
 When pages are missing, the Wayback Machine can help: https://archive.org/web
 
-* https://github.com/awesomedata/awesome-public-datasets
 * https://automaticknowledge.co.uk/resources
 * https://freegisdata.rtwilson.com
+* https://github.com/awesomedata/awesome-public-datasets
 
 Last update: Jan 2021
