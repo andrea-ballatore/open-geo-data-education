@@ -1,6 +1,6 @@
 # Open Geospatial Datasets for GIS Education
 
-<img src="img/gis_data.png" width=300 align="right" />
+<img src="img/gis_data.png" width=200 align="right" />
 
 This is a repository of open geospatial datasets to be used in an educational context.
 I created these files over years of teaching Geographic Data Science and GIS.
