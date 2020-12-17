@@ -43,9 +43,9 @@ Some files are compressed with **gzip** (.gz extension), which is available nati
 
 When pages are missing, the Wayback Machine can help: https://archive.org/web
 
-* (https://github.com/fivethirtyeight/data): Amazing collection of various datasets (mostly non-geographical) with Jupyter notebooks
-* (https://freegisdata.rtwilson.com): Thematically grouped geo-datasets.
-* (https://github.com/awesomedata/awesome-public-datasets): Various datasets for data science.
-* (https://automaticknowledge.co.uk/resources): Very well packaged geospatial datasets about the UK.
+* [FiveThirtyEight](https://github.com/fivethirtyeight/data): Amazing collection of various datasets (mostly non-geographical) with Jupyter notebooks
+* [Free GIS Data](https://freegisdata.rtwilson.com): Thematically grouped geo-datasets.
+* [Awesome Data](https://github.com/awesomedata/awesome-public-datasets): Various datasets for data science.
+* [Automatic Knowledge](https://automaticknowledge.co.uk/resources): Very well packaged geospatial datasets about the UK.
 
 Last update: Jan 2021
