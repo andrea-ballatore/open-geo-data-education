@@ -11,6 +11,8 @@ Source: World Bank https://data.worldbank.org/indicator
 
 ### Included variables
 
+Note that the completeness of the indicators might vary year by year.
+
 |   indicator_id                |   indicator                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------|
 |   2.0.hoi.Ele                 |   HOI: Electricity                                                                                             |
