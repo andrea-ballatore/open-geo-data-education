@@ -1,10 +1,8 @@
 iso_a2,iso_a3,name,name_long,abbrev,type,continent,region_un,subregion,region_wb,un_a3,wb_a2,wb_a3,iso3c,country,date,it.net.user.zs,ms.mil.xpnd.gd.zs,ne.trd.gnfs.zs,ny.gdp.mktp.cd,ny.gdp.mktp.pp.cd,sl.isv.ifrm.zs,sp.pop.grow,sp.pop.totl,sp.rur.totl.zs,sp.urb.totl.in.zs,region,income_group,eu
--99,-99,France,France,Fr.,Country,Europe,Europe,Western Europe,Europe & Central Asia,250,FR,FRA,,,,,,,,,,,,,,,,
--99,-99,Norway,Norway,Nor.,Sovereign country,Europe,Europe,Northern Europe,Europe & Central Asia,-99,-99,-99,,,,,,,,,,,,,,,,
--99,-99,N. Cyprus,Northern Cyprus,N. Cy.,Sovereign country,Asia,Asia,Western Asia,Europe & Central Asia,-099,-99,-99,,,,,,,,,,,,,,,,
 -99,-99,Indian Ocean Ter.,Indian Ocean Territories,Ind. Oc. Ter.,Dependency,Asia,Seven seas (open ocean),Seven seas (open ocean),East Asia & Pacific,-099,-99,-99,,,,,,,,,,,,,,,,
--99,-99,Siachen Glacier,Siachen Glacier,Siachen,Indeterminate,Asia,Asia,Southern Asia,South Asia,-099,-99,-99,,,,,,,,,,,,,,,,
+-99,-99,N. Cyprus,Northern Cyprus,N. Cy.,Sovereign country,Asia,Asia,Western Asia,Europe & Central Asia,-099,-99,-99,,,,,,,,,,,,,,,,
 -99,-99,Ashmore and Cartier Is.,Ashmore and Cartier Islands,A.C.Is.,Dependency,Oceania,Oceania,Australia and New Zealand,East Asia & Pacific,-099,-99,-99,,,,,,,,,,,,,,,,
+-99,-99,Siachen Glacier,Siachen Glacier,Siachen,Indeterminate,Asia,Asia,Southern Asia,South Asia,-099,-99,-99,,,,,,,,,,,,,,,,
 -99,-99,Somaliland,Somaliland,Solnd.,Indeterminate,Africa,Africa,Eastern Africa,Sub-Saharan Africa,-099,-99,-99,,,,,,,,,,,,,,,,
 AD,AND,Andorra,Andorra,And.,Sovereign country,Europe,Europe,Southern Europe,Europe & Central Asia,020,AD,ADO,AND,Andorra,2019,91.5675,,,3154057987.23833,,,0.176453843432831,77142,12.016,87.984,Europe & Central Asia,High income,
 AE,ARE,United Arab Emirates,United Arab Emirates,U.A.E.,Sovereign country,Asia,Asia,Western Asia,Middle East & North Africa,784,AE,ARE,ARE,United Arab Emirates,2019,99.15,,160.936092884595,421142267937.65,684809773101.984,,1.43878044485973,9770529,13.211,86.789,Middle East & North Africa,High income,
@@ -76,6 +74,7 @@ FJ,FJI,Fiji,Fiji,Fiji,Sovereign country,Oceania,Oceania,Melanesia,East Asia & Pa
 FK,FLK,Falkland Is.,Falkland Islands,Flk. Is.,Dependency,South America,Americas,South America,Latin America & Caribbean,238,-99,-99,,,,,,,,,,,,,,,,
 FM,FSM,Micronesia,Federated States of Micronesia,F.S.M.,Sovereign country,Oceania,Oceania,Micronesia,East Asia & Pacific,583,FM,FSM,FSM,"Micronesia, Fed. Sts.",2019,35.3041,,,,,,1.03774307896197,113815,77.188,22.812,East Asia & Pacific,Lower middle income,
 FO,FRO,Faeroe Is.,Faeroe Islands,Faeroe Is.,Dependency,Europe,Europe,Northern Europe,Europe & Central Asia,234,FO,FRO,FRO,Faroe Islands,2019,97.582,,,,,,0.372524228078936,48678,57.775,42.225,Europe & Central Asia,High income,
+FR,FRA,France,France,Fr.,Country,Europe,Europe,Western Europe,Europe & Central Asia,250,FR,FRA,FRA,France,2019,83.3397,1.85722004091871,64.5227290341624,2715518274227.45,3315117580574.84,,0.140234217742883,67059887,19.291,80.709,Europe & Central Asia,High income,EU
 GA,GAB,Gabon,Gabon,Gabon,Sovereign country,Africa,Africa,Middle Africa,Sub-Saharan Africa,266,GA,GAB,GAB,Gabon,2019,62,1.59301497980048,72.2497973586532,16874450215.1351,33917539948.0722,,2.48408920696695,2172579,10.259,89.741,Sub-Saharan Africa,Upper middle income,
 GB,GBR,United Kingdom,United Kingdom,U.K.,Country,Europe,Europe,Northern Europe,Europe & Central Asia,826,GB,GBR,GBR,United Kingdom,2019,92.5166,1.743458811382,64.2877735623301,2829108219165.8,3254710769067.94,,0.561255390388033,66834405,16.348,83.652,Europe & Central Asia,High income,EU
 GD,GRD,Grenada,Grenada,Gren.,Sovereign country,North America,Americas,Caribbean,Latin America & Caribbean,308,GD,GRD,GRD,Grenada,2019,59.0717,,110.199074229876,1210603703.7037,1992859146.8027,,0.491370692894964,112003,63.604,36.396,Latin America & Caribbean,Upper middle income,
@@ -163,6 +162,7 @@ NF,NFK,Norfolk Island,Norfolk Island,Nfk. I.,Dependency,Oceania,Oceania,Australi
 NG,NGA,Nigeria,Nigeria,Nigeria,Sovereign country,Africa,Africa,Western Africa,Sub-Saharan Africa,566,NG,NGA,NGA,Nigeria,2019,42,0.460792414766158,34.0238778317108,448120428858.769,1077719232146.02,,2.5648418857943,200963599,48.843,51.157,Sub-Saharan Africa,Lower middle income,
 NI,NIC,Nicaragua,Nicaragua,Nic.,Sovereign country,North America,Americas,Central America,Latin America & Caribbean,558,NI,NIC,NIC,Nicaragua,2019,27.863,0.654937274656022,95.0758836210015,12520915291.1837,36958519013.4192,,1.22957367676273,6545502,41.24,58.76,Latin America & Caribbean,Lower middle income,
 NL,NLD,Netherlands,Netherlands,Neth.,Country,Europe,Europe,Western Europe,Europe & Central Asia,528,NL,NLD,NLD,Netherlands,2019,93.2886,1.34065168147761,156.224459948633,907050863145.097,1032244626001.83,,0.585724460318329,17332850,8.124,91.876,Europe & Central Asia,High income,EU
+NO,NOR,Norway,Norway,Nor.,Sovereign country,Europe,Europe,Northern Europe,Europe & Central Asia,-99,-99,-99,NOR,Norway,2019,98,1.68412019139258,72.1464996506412,403336363636.364,357409883994.042,,0.675061373245644,5347896,17.384,82.616,Europe & Central Asia,High income,
 NP,NPL,Nepal,Nepal,Nepal,Sovereign country,Asia,Asia,Southern Asia,South Asia,524,NP,NPL,NPL,Nepal,2019,34,1.56308145030184,54.9259211369837,30641380603.9699,102075675266.473,,1.83733707688441,28608710,79.847,20.153,South Asia,Lower middle income,
 NR,NRU,Nauru,Nauru,Nauru,Sovereign country,Oceania,Oceania,Micronesia,East Asia & Pacific,520,-99,-99,NRU,Nauru,2019,57,,99.2135511191773,118223430.124446,152170931.825306,,-0.972916513578618,12581,0,100,East Asia & Pacific,High income,
 NU,NIU,Niue,Niue,Niue,Dependency,Oceania,Oceania,Polynesia,East Asia & Pacific,570,-99,-99,,,,,,,,,,,,,,,,
