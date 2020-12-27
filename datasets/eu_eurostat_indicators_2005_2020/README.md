@@ -1,6 +1,11 @@
 ## EU Eurostat data at country and regional level (2005-2020)
 
-Data source: Eurostat https://ec.europa.eu/eurostat
+Data sources: 
+
+- Eurostat https://ec.europa.eu/eurostat
+- Boundaries from https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/
+
+Geographies:
 
 - NUTS 0: Countries
 - NUTS 2: Regions
