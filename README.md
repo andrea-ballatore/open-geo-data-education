@@ -33,9 +33,9 @@ All datasets are encoded in open formats:
 * __GeoPackage__ (.gpkg): Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
 * __GeoTiff__ (.tif): Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
 * __R dataset__ (.rds): Native R binary format containing a data frame or a spatial data frame.
-* I do not use shapefiles: (http://switchfromshapefile.org)
+* Do not use shapefiles: http://switchfromshapefile.org
 
-All datasets are smaller than 50 MB, in an effort to make them suitable for dated hardware. 
+All datasets are smaller than 50 MB, in an effort to make them suitable for cheap hardware. 
 Some files are compressed with **gzip** (.gz extension), which is available natively on Mac and Linux. 
 [7 Zip](https://www.7-zip.org) handles the format on Windows.
 
