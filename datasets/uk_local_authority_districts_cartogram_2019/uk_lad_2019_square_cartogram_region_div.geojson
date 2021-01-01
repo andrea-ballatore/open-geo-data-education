@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "uk_lad_2019_square_cartogram_region_div",
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "description": "North West - Scotland" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.0, 24.0 ], [ 8.0, 24.0 ] ] } },
+{ "type": "Feature", "id": 2, "properties": { "description": "North East - Scotland" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.0, 24.0 ], [ 10.0, 24.0 ], [ 10.0, 25.0 ], [ 10.0, 26.0 ], [ 11.0, 26.0 ] ] } },
+{ "type": "Feature", "id": 3, "properties": { "description": "North East - North West" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.0, 22.0 ], [ 8.0, 23.0 ], [ 8.0, 24.0 ] ] } },
+{ "type": "Feature", "id": 4, "properties": { "description": "North East - Yorkshire and The Humber " }, "geometry": { "type": "LineString", "coordinates": [ [ 8.0, 22.0 ], [ 9.0, 22.0 ], [ 10.0, 22.0 ], [ 11.0, 22.0 ], [ 12.0, 22.0 ] ] } },
+{ "type": "Feature", "id": 5, "properties": { "description": "North West - Yorkshire and The Humber" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.0, 22.0 ], [ 8.0, 21.0 ], [ 9.0, 21.0 ], [ 9.0, 20.0 ], [ 9.0, 19.0 ], [ 9.0, 18.0 ], [ 10.0, 18.0 ], [ 10.0, 17.0 ] ] } },
+{ "type": "Feature", "id": 6, "properties": { "description": "East Midlands - Yorkshire and The Humber" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.0, 17.0 ], [ 11.0, 17.0 ], [ 12.0, 17.0 ], [ 12.0, 18.0 ], [ 13.0, 18.0 ], [ 14.0, 18.0 ], [ 14.0, 19.0 ], [ 15.0, 19.0 ] ] } },
+{ "type": "Feature", "id": 7, "properties": { "description": "East Midlands - North West" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.0, 15.0 ], [ 8.0, 16.0 ], [ 9.0, 16.0 ], [ 9.0, 17.0 ], [ 10.0, 17.0 ] ] } },
+{ "type": "Feature", "id": 8, "properties": { "description": "North West - West Midlands" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.0, 14.0 ], [ 8.0, 14.0 ], [ 8.0, 15.0 ] ] } },
+{ "type": "Feature", "id": 9, "properties": { "description": "West Midlands - Yorkshire and The Humber" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.0, 15.0 ], [ 9.0, 15.0 ], [ 9.0, 14.0 ], [ 10.0, 14.0 ], [ 10.0, 13.0 ], [ 10.0, 12.0 ], [ 11.0, 12.0 ], [ 11.0, 11.0 ], [ 11.0, 10.0 ], [ 12.0, 10.0 ] ] } },
+{ "type": "Feature", "id": 10, "properties": { "description": "Wales - West Midlands" }, "geometry": { "type": "LineString", "coordinates": [ [ 6.0, 8.0 ], [ 6.0, 9.0 ], [ 6.0, 10.0 ], [ 6.0, 11.0 ], [ 6.0, 12.0 ], [ 6.0, 13.0 ] ] } },
+{ "type": "Feature", "id": 11, "properties": { "description": "South West - West Midlands" }, "geometry": { "type": "LineString", "coordinates": [ [ 6.0, 8.0 ], [ 7.0, 8.0 ], [ 8.0, 8.0 ], [ 9.0, 8.0 ], [ 9.0, 7.0 ], [ 10.0, 7.0 ] ] } },
+{ "type": "Feature", "id": 12, "properties": { "description": "South East - West Midlands" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.0, 7.0 ], [ 10.0, 8.0 ], [ 11.0, 8.0 ], [ 11.0, 9.0 ], [ 12.0, 9.0 ], [ 12.0, 10.0 ] ] } },
+{ "type": "Feature", "id": 13, "properties": { "description": "South East - Yorkshire and The Humber" }, "geometry": { "type": "LineString", "coordinates": [ [ 12.0, 10.0 ], [ 13.0, 10.0 ] ] } },
+{ "type": "Feature", "id": 14, "properties": { "description": "East of England - Yorkshire and The Humber" }, "geometry": { "type": "LineString", "coordinates": [ [ 14.0, 10.0 ], [ 14.0, 11.0 ], [ 14.0, 12.0 ], [ 14.0, 13.0 ], [ 14.0, 14.0 ], [ 15.0, 14.0 ], [ 15.0, 15.0 ], [ 15.0, 16.0 ], [ 16.0, 16.0 ] ] } },
+{ "type": "Feature", "id": 15, "properties": { "description": "London - Yorkshire and The Humber" }, "geometry": { "type": "LineString", "coordinates": [ [ 13.0, 10.0 ], [ 14.0, 10.0 ] ] } },
+{ "type": "Feature", "id": 16, "properties": { "description": "London - South East" }, "geometry": { "type": "LineString", "coordinates": [ [ 13.0, 10.0 ], [ 13.0, 9.0 ], [ 14.0, 9.0 ], [ 14.0, 8.0 ], [ 14.0, 7.0 ], [ 15.0, 7.0 ], [ 15.0, 6.0 ], [ 16.0, 6.0 ], [ 16.0, 5.0 ], [ 17.0, 5.0 ], [ 17.0, 6.0 ], [ 18.0, 6.0 ], [ 19.0, 6.0 ], [ 20.0, 6.0 ], [ 20.0, 7.0 ], [ 20.0, 8.0 ], [ 20.0, 9.0 ], [ 21.0, 9.0 ] ] } },
+{ "type": "Feature", "id": 17, "properties": { "description": "East of England - South East" }, "geometry": { "type": "LineString", "coordinates": [ [ 21.0, 9.0 ], [ 22.0, 9.0 ], [ 23.0, 9.0 ] ] } },
+{ "type": "Feature", "id": 18, "properties": { "description": "East of England - London" }, "geometry": { "type": "LineString", "coordinates": [ [ 21.0, 9.0 ], [ 21.0, 10.0 ], [ 21.0, 11.0 ], [ 20.0, 11.0 ], [ 19.0, 11.0 ], [ 18.0, 11.0 ], [ 18.0, 12.0 ], [ 17.0, 12.0 ], [ 17.0, 11.0 ], [ 16.0, 11.0 ], [ 15.0, 11.0 ], [ 15.0, 10.0 ], [ 14.0, 10.0 ] ] } },
+{ "type": "Feature", "id": 19, "properties": { "description": "South East - South West" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.0, 7.0 ], [ 10.0, 6.0 ], [ 10.0, 5.0 ], [ 11.0, 5.0 ], [ 11.0, 4.0 ], [ 10.0, 4.0 ], [ 10.0, 3.0 ] ] } }
+]
+}
