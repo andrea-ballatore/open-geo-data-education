@@ -1,6 +1,6 @@
 # Open Geospatial Datasets for GIS Education
 
-<img src="img/gis_data.png" width=200 align="right" />
+<img src="img/gis data.png" width=200 align="right" />
 
 This is a repository of open geospatial datasets to be used in an educational context.
 I created these files over years of teaching Geographic Data Science and GIS.
@@ -22,46 +22,47 @@ Andrea Ballatore (Birkbeck, University of London) &bull; [aballatore.space](http
 
 ## Datasets
 
+All the datasets are in the folder `datasets`.
+
 | Dataset                                      | Spatial data |
 |----------------------------------------------|--------------|
-| ancient_boundaries                           | Polygons     |
-| ancient_roman_roads                          | Network      |
-| darmc_historical_shipwrecks_500bce_1500ce    | Points       |
-| digital_elevation_models                     | Raster       |
-| dmsp_ols_nighttime_lights_1995_2013          | Raster       |
-| eu_air_quality_2016                          | Raster       |
-| eu_eurostat_indicators_2005_2020             | Polygons     |
-| europe_boundaries_1914                       | Polygons     |
-| global_air_temperature_1950_2017             | Raster       |
-| global_historical_earthquakes_1000_1903      | Points       |
-| global_precipitation_1950_2017               | Raster       |
-| gpw_global_population_density_2000_2020      | Raster       |
-| london_borough_profiles_2015                 | Polygons     |
-| london_deprivation_index_wards_2019          | Polygons     |
-| london_openstreetmap_points_of_interest_2020 | Points       |
-| london_ward_profiles_2015                    | Polygons     |
-| los_angeles_census_and_deprivation_2013      | Polygons     |
-| tectonic_plates_2002                         | Polygons     |
-| uk_brexit_2016                               | Polygons     |
-| uk_hexagonal_grids                           | Polygons     |
-| uk_local_authority_districts_2019            | Polygons     |
-| uk_local_authority_districts_cartogram_2019  | Polygons     |
-| uk_nations_and_regions_2011                  | Polygons     |
-| uk_population_estimates_1838_2016            | --           |
-| uk_urban_areas_2016                          | Polygons     |
-| world_bank_country_indicators_2000_2020      | Polygons     |
-| world_country_boundaries_2018                | Polygons     |
-|----------------------------------------------|--------------|
+| ancient boundaries                           | Polygons     |
+| ancient roman roads                          | Network      |
+| darmc historical shipwrecks 500bce 1500ce    | Points       |
+| digital elevation models                     | Raster       |
+| dmsp ols nighttime lights 1995 2013          | Raster       |
+| eu air quality 2016                          | Raster       |
+| eu eurostat indicators 2005 2020             | Polygons     |
+| europe boundaries 1914                       | Polygons     |
+| global air temperature 1950 2017             | Raster       |
+| global historical earthquakes 1000 1903      | Points       |
+| global precipitation 1950 2017               | Raster       |
+| gpw global population density 2000 2020      | Raster       |
+| london borough profiles 2015                 | Polygons     |
+| london deprivation index wards 2019          | Polygons     |
+| london openstreetmap points of interest 2020 | Points       |
+| london ward profiles 2015                    | Polygons     |
+| los angeles census and deprivation 2013      | Polygons     |
+| tectonic plates 2002                         | Polygons     |
+| uk brexit 2016                               | Polygons     |
+| uk hexagonal grids                           | Polygons     |
+| uk local authority districts 2019            | Polygons     |
+| uk local authority districts cartogram 2019  | Polygons     |
+| uk nations and regions 2011                  | Polygons     |
+| uk population estimates 1838 2016            | --           |
+| uk urban areas 2016                          | Polygons     |
+| world bank country indicators 2000 2020      | Polygons     |
+| world country boundaries 2018                | Polygons     |
 
 ## Formats
 
 All datasets are encoded in open formats:
 
-* __CSV/TSV__ (.csv, .tsv): Comma or tab-separated values. It can be opened with R, Python, Excel.
-* __GeoJSON__ (.geojson): Text-based geospatial vector datasets. It can be opened with QGIS, R, and Python.
-* __GeoPackage__ (.gpkg): Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
-* __GeoTiff__ (.tif): Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
-* __R dataset__ (.rds): Native R binary format containing a data frame or a spatial data frame.
+*   CSV/TSV   (.csv, .tsv): Comma or tab-separated values. It can be opened with R, Python, Excel.
+*   GeoJSON   (.geojson): Text-based geospatial vector datasets. It can be opened with QGIS, R, and Python.
+*   GeoPackage   (.gpkg): Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
+*   GeoTiff   (.tif): Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
+*   R dataset   (.rds): Native R binary format containing a data frame or a spatial data frame.
 * Do not use shapefiles: http://switchfromshapefile.org
 
 All datasets are smaller than 50 MB, in an effort to make them suitable for cheap hardware. 
