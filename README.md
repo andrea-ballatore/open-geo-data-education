@@ -1,6 +1,6 @@
 # Open Geospatial Datasets for GIS Education
 
-<img src="img/gis data.png" width=200 align="right" />
+<img src="img/gis_data.png" width=200 align="right" />
 
 This is a repository of open geospatial datasets to be used in an educational context.
 I created these files over years of teaching Geographic Data Science and GIS.
@@ -58,11 +58,11 @@ All the datasets are in the folder `datasets`.
 
 All datasets are encoded in open formats:
 
-*   CSV/TSV   (.csv, .tsv): Comma or tab-separated values. It can be opened with R, Python, Excel.
-*   GeoJSON   (.geojson): Text-based geospatial vector datasets. It can be opened with QGIS, R, and Python.
-*   GeoPackage   (.gpkg): Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
-*   GeoTiff   (.tif): Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
-*   R dataset   (.rds): Native R binary format containing a data frame or a spatial data frame.
+* __CSV/TSV__ (.csv, .tsv): Comma or tab-separated values. It can be opened with R, Python, Excel.
+* __GeoJSON__ (.geojson): Text-based geospatial vector datasets. It can be opened with QGIS, R, and Python.
+* __GeoPackage__ (.gpkg): Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
+* __GeoTiff__ (.tif): Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
+* __R dataset__ (.rds): Native R binary format containing a data frame or a spatial data frame.
 * Do not use shapefiles: http://switchfromshapefile.org
 
 All datasets are smaller than 50 MB, in an effort to make them suitable for cheap hardware. 
