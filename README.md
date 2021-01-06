@@ -22,7 +22,36 @@ Andrea Ballatore (Birkbeck, University of London) &bull; [aballatore.space](http
 
 ## Datasets
 
-TBC
+| Dataset                                      | Spatial data |
+|----------------------------------------------|--------------|
+| ancient_boundaries                           | Polygons     |
+| ancient_roman_roads                          | Network      |
+| darmc_historical_shipwrecks_500bce_1500ce    | Points       |
+| digital_elevation_models                     | Raster       |
+| dmsp_ols_nighttime_lights_1995_2013          | Raster       |
+| eu_air_quality_2016                          | Raster       |
+| eu_eurostat_indicators_2005_2020             | Polygons     |
+| europe_boundaries_1914                       | Polygons     |
+| global_air_temperature_1950_2017             | Raster       |
+| global_historical_earthquakes_1000_1903      | Points       |
+| global_precipitation_1950_2017               | Raster       |
+| gpw_global_population_density_2000_2020      | Raster       |
+| london_borough_profiles_2015                 | Polygons     |
+| london_deprivation_index_wards_2019          | Polygons     |
+| london_openstreetmap_points_of_interest_2020 | Points       |
+| london_ward_profiles_2015                    | Polygons     |
+| los_angeles_census_and_deprivation_2013      | Polygons     |
+| tectonic_plates_2002                         | Polygons     |
+| uk_brexit_2016                               | Polygons     |
+| uk_hexagonal_grids                           | Polygons     |
+| uk_local_authority_districts_2019            | Polygons     |
+| uk_local_authority_districts_cartogram_2019  | Polygons     |
+| uk_nations_and_regions_2011                  | Polygons     |
+| uk_population_estimates_1838_2016            | --           |
+| uk_urban_areas_2016                          | Polygons     |
+| world_bank_country_indicators_2000_2020      | Polygons     |
+| world_country_boundaries_2018                | Polygons     |
+|----------------------------------------------|--------------|
 
 ## Formats
 
