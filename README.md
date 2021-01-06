@@ -25,7 +25,7 @@ Andrea Ballatore (Birkbeck, University of London) &bull; [aballatore.space](http
 All the datasets are in the folder `datasets`.
 
 | Dataset                                      | Data         | Spatial scope       
-|----------------------------------------------|--------------|---------------------
+| :--------------------------------------------| :------------|:-------------------
 | ancient boundaries                           | Polygons     | Global
 | ancient roman roads                          | Network      | Europe/North Africa
 | darmc historical shipwrecks 500bce 1500ce    | Points       | Europe/North Africa
