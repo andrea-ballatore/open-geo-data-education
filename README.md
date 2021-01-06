@@ -24,35 +24,35 @@ Andrea Ballatore (Birkbeck, University of London) &bull; [aballatore.space](http
 
 All the datasets are in the folder `datasets`.
 
-| Dataset                                      | Spatial data |
-|----------------------------------------------|--------------|
-| ancient boundaries                           | Polygons     |
-| ancient roman roads                          | Network      |
-| darmc historical shipwrecks 500bce 1500ce    | Points       |
-| digital elevation models                     | Raster       |
-| dmsp ols nighttime lights 1995 2013          | Raster       |
-| eu air quality 2016                          | Raster       |
-| eu eurostat indicators 2005 2020             | Polygons     |
-| europe boundaries 1914                       | Polygons     |
-| global air temperature 1950 2017             | Raster       |
-| global historical earthquakes 1000 1903      | Points       |
-| global precipitation 1950 2017               | Raster       |
-| gpw global population density 2000 2020      | Raster       |
-| london borough profiles 2015                 | Polygons     |
-| london deprivation index wards 2019          | Polygons     |
-| london openstreetmap points of interest 2020 | Points       |
-| london ward profiles 2015                    | Polygons     |
-| los angeles census and deprivation 2013      | Polygons     |
-| tectonic plates 2002                         | Polygons     |
-| uk brexit 2016                               | Polygons     |
-| uk hexagonal grids                           | Polygons     |
-| uk local authority districts 2019            | Polygons     |
-| uk local authority districts cartogram 2019  | Polygons     |
-| uk nations and regions 2011                  | Polygons     |
-| uk population estimates 1838 2016            | --           |
-| uk urban areas 2016                          | Polygons     |
-| world bank country indicators 2000 2020      | Polygons     |
-| world country boundaries 2018                | Polygons     |
+| Dataset                                      | Data         | Spatial scope       
+|----------------------------------------------|--------------|---------------------
+| ancient boundaries                           | Polygons     | Global
+| ancient roman roads                          | Network      | Europe/North Africa
+| darmc historical shipwrecks 500bce 1500ce    | Points       | Europe/North Africa
+| digital elevation models                     | Raster       | Global
+| dmsp ols nighttime lights 1995 2013          | Raster       | Global
+| eu air quality 2016                          | Raster       | European Union
+| eu eurostat indicators 2005 2020             | Polygons     | European Union
+| europe boundaries 1914                       | Polygons     | Europe
+| global air temperature 1950 2017             | Raster       | Global
+| global historical earthquakes 1000 1903      | Points       | Global
+| global precipitation 1950 2017               | Raster       | Global
+| gpw global population density 2000 2020      | Raster       | Global
+| london borough profiles 2015                 | Polygons     | Greater London
+| london deprivation index wards 2019          | Polygons     | Greater London
+| london openstreetmap points of interest 2020 | Points       | Greater London
+| london ward profiles 2015                    | Polygons     | Greater London
+| los angeles census and deprivation 2013      | Polygons     | Los Angeles County
+| tectonic plates 2002                         | Polygons     | Global
+| uk brexit 2016                               | Polygons     | UK
+| uk hexagonal grids                           | Polygons     | UK
+| uk local authority districts 2019            | Polygons     | UK
+| uk local authority districts cartogram 2019  | Polygons     | UK
+| uk nations and regions 2011                  | Polygons     | UK
+| uk population estimates 1838 2016            | --           | UK
+| uk urban areas 2016                          | Polygons     | UK
+| world bank country indicators 2000 2020      | Polygons     | Global
+| world country boundaries 2018                | Polygons     | Global
 
 ## Formats
 
