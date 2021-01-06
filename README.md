@@ -38,6 +38,7 @@ All the datasets are in the folder `datasets`.
 | global historical earthquakes 1000 1903      | Points       | Global
 | global precipitation 1950 2017               | Raster       | Global
 | gpw global population density 2000 2020      | Raster       | Global
+| london boroughs energy and pollution 2017    | Polygons     | Greater London
 | london borough profiles 2015                 | Polygons     | Greater London
 | london deprivation index wards 2019          | Polygons     | Greater London
 | london openstreetmap points of interest 2020 | Points       | Greater London
