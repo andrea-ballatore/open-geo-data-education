@@ -52,6 +52,7 @@ All the datasets are in the folder `datasets`.
 | uk nations and regions 2011                  | Polygons     | UK
 | uk population estimates 1838 2016            | --           | UK
 | uk urban areas 2016                          | Polygons     | UK
+| wikipedia geo pages 2021                     | Points       | Global
 | world bank country indicators 2000 2020      | Polygons     | Global
 | world country boundaries 2018                | Polygons     | Global
 
