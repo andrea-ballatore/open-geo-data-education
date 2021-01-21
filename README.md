@@ -49,6 +49,7 @@ All the datasets are in the folder `datasets`.
 | uk hexagonal grids                           | Polygons     | UK
 | uk local authority districts 2019            | Polygons     | UK
 | uk local authority districts cartogram 2019  | Polygons     | UK
+| uk national parks and aonb                   | Polygons     | GB
 | uk nations and regions 2011                  | Polygons     | UK
 | uk population estimates 1838 2016            | --           | UK
 | uk urban areas 2016                          | Polygons     | UK
