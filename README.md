@@ -38,12 +38,15 @@ All the datasets are in the folder `datasets`.
 | global air temperature 1950 2017             | Raster       | Global
 | global historical earthquakes 1000 1903      | Points       | Global
 | global precipitation 1950 2017               | Raster       | Global
+| global trade network 1988 2018               | Network      | Global
 | gpw global population density 2000 2020      | Raster       | Global
 | london boroughs energy and pollution 2017    | Polygons     | Greater London
 | london borough profiles 2015                 | Polygons     | Greater London
 | london deprivation index wards 2019          | Polygons     | Greater London
 | london openstreetmap points of interest 2020 | Points       | Greater London
 | london ward profiles 2015                    | Polygons     | Greater London
+| london travel origin destination 2011        | Network      | Greater London
+| london underground network                   | Network      | Greater London
 | los angeles census and deprivation 2013      | Polygons     | Los Angeles County
 | tectonic plates 2002                         | Polygons     | Global
 | uk brexit 2016                               | Polygons     | UK
@@ -66,6 +69,7 @@ All datasets are encoded in open formats:
 * __GeoJSON__ (.geojson): Text-based geospatial vector datasets. It can be opened with QGIS, R, and Python.
 * __GeoPackage__ (.gpkg): Single-file DB with geospatial datasets. It can be opened with QGIS, R, and Python.
 * __GeoTiff__ (.tif): Geospatial raster datasets. It can be opened with QGIS, ArcMap, R, and Python.
+* __GraphML__ (.graphml): Network data. It can be opened in Python with networkx and Gephi.
 * __R dataset__ (.rds): Native R binary format containing a data frame or a spatial data frame.
 * Do not use shapefiles: http://switchfromshapefile.org
 
