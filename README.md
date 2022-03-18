@@ -11,7 +11,7 @@ This is a pretty time-intensive process that other educators can hopefully avoid
 
 ## Maintainer
 
-Andrea Ballatore (Birkbeck, University of London) &bull; [aballatore.space](https://aballatore.space)
+Andrea Ballatore (King's College London) &bull; [aballatore.space](https://aballatore.space)
 
 ## Disclaimer
 
